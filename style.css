@@ -94,20 +94,19 @@ body{
     position: absolute;
     top: 370px;
     left: 45px;
-    right: 60px;
     border-radius: 10px;
     border: 1px solid #3D8168;
     background-color: #3D8168;
     color: white;
-    width: 230;
+    width: 220px;
     height: 47px;
     font-size: larger;
     box-shadow: 1px 2px 4px #3D8168;
     transition: all 200ms ease-in-out;
 }
 
-button:hover {
-    transform: translateY(5px);
+#but:hover {
+    transform: translateY(10px);
 }
 
 #hide{
